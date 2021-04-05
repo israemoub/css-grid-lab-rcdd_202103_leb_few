@@ -10,7 +10,9 @@ body {
   /* your properties here */
   display: grid;
   grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
 }
+
 
 .bigItem: {
   grid-column-start: 1;
