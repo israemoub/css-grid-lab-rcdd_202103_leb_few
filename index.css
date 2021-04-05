@@ -12,6 +12,10 @@ body {
   grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
 }
 
+.bigItem: {
+  
+}
+
 .grid-item {
   background-color: grey;
   border: 1px solid black;
